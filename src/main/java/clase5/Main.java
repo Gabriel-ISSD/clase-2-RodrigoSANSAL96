@@ -12,5 +12,7 @@ public class Main {
         Empleado empleado1 = new Empleado();
         empleado1.cargar();
         empleado1.imprimir();
+        empleado1.mayorEdad();
+        empleado1.impuestos();
     }
 }
