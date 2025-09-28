@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class Naipe {
     private String tipo;
     private int numero;

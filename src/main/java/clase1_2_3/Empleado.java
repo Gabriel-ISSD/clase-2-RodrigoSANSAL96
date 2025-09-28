@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 import java.util.Scanner;
 public class Empleado {
     private Scanner teclado;

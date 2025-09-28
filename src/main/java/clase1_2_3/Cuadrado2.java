@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class Cuadrado2 {
     private int lado;
 

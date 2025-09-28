@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class PruebaPersona {
     public static void main(String[] args){
         System.out.println("Valor de cantidad: "+Persona.cantidad);

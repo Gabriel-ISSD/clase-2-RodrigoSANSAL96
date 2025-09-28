@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class Operacion2 {
 
     public static int sumar(int a, int b) {

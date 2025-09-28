@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class for_problemaspropuestos_2 {
     public static void main(String[] args) {
         int i, resultado;

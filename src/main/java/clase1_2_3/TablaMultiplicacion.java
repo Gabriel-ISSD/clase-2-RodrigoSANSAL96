@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 public class TablaMultiplicacion {
     private int tabla;
 

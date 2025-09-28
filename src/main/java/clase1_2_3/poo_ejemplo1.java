@@ -1,3 +1,5 @@
+package clase1_2_3;
+
 import java.util.Scanner;
 public class poo_ejemplo1 {
     private Scanner teclado;
